@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="structs2Form:Web exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/structs2Form_Web_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="structs2Form/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="structs2Form" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

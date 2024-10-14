@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="struts_forum_demo:forum exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/struts_forum_demo_forum_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="struts_forum_demo/web/forum" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="struts_forum_demo" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
